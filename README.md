@@ -1,4 +1,4 @@
-# PetsGO
+# PetsGO 🐱🐶
 Projeto de Primeiro semestre UMESP -SBC
 Projeto de Desenvolvimento Web 
 Participações: Vinicius Souza, José Montoro, João Victor Lopes.
